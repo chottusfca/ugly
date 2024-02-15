@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Saint+Delafield&family=Rock+Salt&display=swap');
+
+
+body {
+    background-image: url("../img/carpet.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
+    color: red; 
+}
+
+h1 {
+    font-family: "Rock Salt", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: orange; 
+    background-color: aqua;
+    width: 25%;
+}
+
+h2 {
+    background-color: yellow;
+    font-family: "Mrs Saint Delafield", cursive;
+    font-weight: 800;
+    font-style: normal;
+    width: 50%; 
+    margin: auto;
+    text-align: center;
+}
